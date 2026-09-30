@@ -1,0 +1,8 @@
+node_modules/
+*.tsbuildinfo
+*.js.map
+.DS_Store
+Thumbs.db
+
+# 本地计划书/笔记，不入库
+PLAN.md

@@ -1,0 +1,4 @@
+# dsh-session-ops bundle 层：插入宿主插件行（只提供 /dsh-session-ops/delete 一个路由）。
+- insert:
+    - id: dsh-session-ops
+      name: dsh-session-ops
